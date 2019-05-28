@@ -1,0 +1,51 @@
+.header-line {
+	width: 100%;
+	height: 10px;
+	@include green-color;
+}
+.header-wrapper-content {
+	height: auto;
+
+	background: url("../img/header-theme.png") 0 0 no-repeat;
+	background-size: cover;
+	@include medium-screen {
+		height: 600px;	
+	}
+
+}
+.header-content {
+	height: 100%;
+	@include center;
+	max-width: 1200px - 125px - 10px;
+	padding-left: 125px;
+	background: url("../img/hand.png") no-repeat;
+	background-size: 50%;
+	background-position: right 0 bottom;
+	@include large-screen {
+		background-size: auto;
+		background-position: right 65px bottom;
+	}
+
+}
+.logo {
+	padding-bottom: 10px;
+	padding-top: 160px;
+	@include medium-screen {
+		padding-top: 170px;
+	}
+	@include large-screen {
+		padding-bottom: 25px;
+	}
+
+	a {
+		display: block;
+	}
+}
+.header-text {
+	padding-bottom: 15px;
+	max-width: 460px;
+	@include header-font;
+	@include large-screen {
+		padding-bottom: 20px;
+	}
+}

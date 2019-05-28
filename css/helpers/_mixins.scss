@@ -1,0 +1,101 @@
+@mixin small-screen {
+	@media (min-width: 480px) {
+		@content;
+	}
+}
+@mixin medium-screen {
+	@media (min-width: 768px) {
+		@content;
+	}
+}
+@mixin large-screen {
+	@media (min-width: 1024px) {
+		@content;
+	}
+}
+@mixin center {
+	margin: 0 auto;
+	max-width: 1180px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+@mixin green-color {
+	background: $green;
+}
+@mixin cursor {
+	cursor: pointer;
+	cursor: url("../img/cursor.png"), auto;
+}
+@mixin header-font {
+	font: normal 19px/25px helveticaneuemedium;
+	letter-spacing: -0.5px;
+	color: $white;
+	@include medium-screen {
+		font-size: 20px;
+	}		
+	@include large-screen {
+		font-size: 25px;
+		line-height: 36px;
+	}
+}
+@mixin additional-header {
+	font: normal 18px/18px ralewaysemibold;
+	letter-spacing: -0.5px;
+	color: $black;
+	@include large-screen{
+		font-size: 23px;
+	}
+}
+@mixin main-text {
+	font: normal 13px/26px helveticaneueregular;
+	letter-spacing: 0.9px;
+	color: $grey;
+	@include large-screen {
+		font-size: 16px;
+	}
+}
+@mixin button-font {
+	font: normal 18px/18px ralewaybold;
+	letter-spacing: -0.5px;
+	color: $white;
+	@include large-screen {
+		font-size: 23px;
+	}
+}
+@mixin mission-font {
+	font: italic 15px/28px helveticaneueitalic;
+	letter-spacing: 0.4px;
+	color: $grey;
+	@include large-screen {
+		font-size: 18px;
+		font-weight: 30px;
+	}
+}
+@mixin additional-font {
+	font: bold 18px/21px ralewaybold;
+	color:$dark-grey;
+}
+@mixin round-icon {
+	a {
+		display: block;
+		position: relative;
+		border-radius: 100%;
+	}
+    img {
+    	margin: auto;
+    	width: 50%;
+    	height: 50%;
+    	display: block;
+    	position: absolute;
+    	top: 0;
+    	bottom: 0;
+    	left: 0;
+    	right: 0;
+    	@include large-screen {
+    		width: auto;
+    		height: auto;
+    	}
+    }
+}
+
+

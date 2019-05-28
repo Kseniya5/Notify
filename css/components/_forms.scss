@@ -1,0 +1,55 @@
+.updates-form {
+	padding-bottom: 25px;
+	width: 350px;
+	height: 45px;
+	display: block;
+	@include large-screen {
+		padding-bottom: 0;
+		width: 445px;
+		height: 60px;
+	}
+	input {
+		padding: 0;
+		padding-left: 25px;
+		padding-right: 25px;
+		width: (254px - 25px - 25px - 1px)/ 445px * 100%;
+		height: calc(100% - 2px);
+		float: left;
+		border: solid 1px $border-input-color;
+		border-right: none;
+		border-top-left-radius: $border-input-radius;
+		border-bottom-left-radius: $border-input-radius;
+		@include large-screen {
+			width: 254px;
+		}
+		&::-webkit-input-placeholder {
+			@include main-text;
+			font-size: 13px;
+			line-height: 60px - 2px;
+			height: 60px - 2px;
+			@include large-screen {
+				font-size: 18px;
+			}
+		}
+		&::-moz-placeholder {
+    		@include main-text;
+    		font-size: 13px;
+    		line-height: 60px - 2px;
+			height: 60px - 2px;
+			@include large-screen {
+				font-size: 18px;
+			}
+		}	
+	}
+	button {
+		@include green-color;
+		padding: 0;
+		height: 100%;
+		width: 140px / 445px * 100%;
+		float: left;
+		@include button-font;
+		border: none;
+		border-top-right-radius: $border-input-radius;
+		border-bottom-right-radius: $border-input-radius;
+	}
+}

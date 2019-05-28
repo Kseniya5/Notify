@@ -1,0 +1,26 @@
+.wrapper-footer {
+	background: $light-grey;
+	.footer-menu {
+		padding-top: 35px;
+		padding-bottom: 35px;
+		@include center;
+		text-align: center;
+		@include large-screen {
+			padding-top: 50px;
+			padding-bottom: 50px;
+		}
+		.footer-menu-item {
+			display: inline-block;
+			margin-right: 25px;
+			@include large-screen {
+				margin-right: 35px;	
+			}
+			&:last-child {
+				margin-right: 0;
+			}
+			a {
+				@include main-text;
+			}	
+		}
+	}
+}		

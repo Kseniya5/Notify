@@ -1,0 +1,115 @@
+.theme-servise { 
+	@include center;
+	padding-bottom: 50px;
+	text-align: center;
+	.theme-servise-item {
+		padding-top: 60px;
+		margin-right: 10px;
+		max-width: 325px;
+		width: 30%;
+		display: inline-block;
+		vertical-align: top;
+		@include round-icon;
+		@include large-screen {
+			margin-right: 100px/1180px*100%;
+			width: 325/1180*100%;
+		}
+		&:last-child {
+			margin-right: 0;
+		}
+		a {
+			width: 55px;
+			height: 55px;
+			margin: auto;
+			@include green-color;
+			@include medium-screen {
+				width: 70px;
+				height: 70px;				
+			}
+			@include large-screen {
+				width: 100px;
+				height: 100px;				
+			}
+		}	
+	}
+}
+h3 {
+	@include additional-header;
+	&.theme-service-header {
+		padding-top: 30px;
+	}
+}
+.theme-service-text {
+	padding-top: 25px;
+	@include main-text;
+}
+.wrapper-updates {
+	background: $light-grey;
+	.updates.clearfix {
+		@include center;
+		padding-left: 25px;
+		padding-top: 60px;
+		padding-bottom: 60px;
+		@include large-screen {
+			padding-left: 10px;
+		}
+		.updates-content, .updates-video {
+			@include medium-screen {
+				float: left;				
+			}
+		}
+		.updates-content {
+			@include medium-screen {
+				margin-right: 20px;
+				width: 540px / 1180px * 100%;	
+			}
+			@include large-screen {
+				margin-right: 140px / 1180px * 100%;
+			}
+			.updates-text {
+				@include main-text;
+				padding-bottom: 20px;
+			}
+			.updates-header {
+				padding-bottom: 25px;
+			}
+		}
+		.updates-video {
+			width: 70%;
+			@include medium-screen {
+				width: 500px / 1180px * 100%;
+			}	
+			img {
+				display: block;
+				width: 100%;
+			}
+		}
+	}
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.social-content {
+	padding-bottom: 60px;
+	@include center;
+	text-align: center;
+	.organization-mission {
+		padding-top: 55px;
+		margin: auto;
+		max-width: 835px;
+		@include mission-font;
+	}
+	.manager-name {
+		padding-top: 20px;
+		@include additional-font;
+	}
+	.social-header {
+		padding-top: 60px;
+	}
+	.social-network-title {
+		padding-top: 20px;
+		@include main-text;
+	}
+}

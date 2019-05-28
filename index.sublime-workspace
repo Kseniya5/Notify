@@ -1,0 +1,676 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"month",
+				"monthsSelected"
+			],
+			[
+				"he",
+				"heightAfter"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"place",
+				"placeholder-tooltip"
+			],
+			[
+				"get",
+				"getSelected"
+			],
+			[
+				"cl",
+				"clientY"
+			],
+			[
+				"div",
+				"divReplace"
+			],
+			[
+				"img",
+				"img-replace"
+			],
+			[
+				"l",
+				"l\tleft"
+			],
+			[
+				"po",
+				"pos-f\tposition: fixed;"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"sh",
+				"showNewElem"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"c",
+				"classList"
+			],
+			[
+				"p",
+				"pr\tpadding-right"
+			],
+			[
+				"d",
+				"d-b\tdisplay: block;"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"li",
+				"list\tlist-style-type"
+			],
+			[
+				"m",
+				"mb\tmargin-bottom"
+			],
+			[
+				"t",
+				"ta\ttext-align: ${1:left};"
+			],
+			[
+				"bck",
+				"bgbk-c\tbackground-break: continuous;"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ul",
+				"ulLength"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"add-",
+				"add-branch"
+			],
+			[
+				"new-",
+				"new-document"
+			],
+			[
+				"eq",
+				"equalTo"
+			],
+			[
+				"ma",
+				"mt-a\tmargin-top: auto;"
+			],
+			[
+				"select",
+				"select-option"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"v",
+				"va-m\tvertical-align: middle;"
+			],
+			[
+				"fl",
+				"fl-l\tfloat: left;"
+			],
+			[
+				"f",
+				"fl-l\tfloat: left;"
+			],
+			[
+				"b",
+				"birth-place"
+			],
+			[
+				"e",
+				"error-description"
+			],
+			[
+				"u",
+				"user-personal-info"
+			],
+			[
+				"w",
+				"wrapper"
+			],
+			[
+				"ad",
+				"add-phone"
+			],
+			[
+				"curre",
+				"currency-value"
+			],
+			[
+				"form",
+				"form-number"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"i",
+				"id"
+			],
+			[
+				"ba",
+				"bgsz-a\tbackground-size: auto;"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"confirm",
+				"confirm-submit"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"le",
+				"label\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"intro",
+				"intro-link"
+			],
+			[
+				"mar",
+				"mr-a\tmargin-right: auto;"
+			],
+			[
+				"pos",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"sign",
+				"signup-item"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"bl",
+				"blue\tSass-function"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"text-ali",
+				"text-align"
+			],
+			[
+				"Nam",
+				"NameDepartment"
+			],
+			[
+				"o",
+				"outline"
+			],
+			[
+				"che",
+				"checkbox-item"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"border-ri",
+				"border-right-color"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"tex",
+				"text-align-last"
+			],
+			[
+				"tra",
+				"translateY()"
+			],
+			[
+				"question",
+				"question-big"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"wr",
+				"wrapper-department"
+			],
+			[
+				"rubl",
+				"ruble-small"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"box",
+				"box-sizing"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:n",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Add Repository",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"npm test",
+			"console.log('1');",
+			"console.log('m');",
+			"npm i",
+			"npm instal",
+			"npm install",
+			"node",
+			"node js",
+			"npn",
+			"console.log(123);",
+			"console.log(document.getElementsByTagName('li'));",
+			"consile.log(document.getElementsByTagName('li'));"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/1HTML/Curse JS/68UluchshenyyPlaceholder.html",
+		"/E/1HTML/1Site/Notify/Notify site/fonts/stylesheet.css",
+		"/E/1HTML/Curse JS/69avtovychislenieProtsentovPoVkladu.html",
+		"/E/1HTML/1Site/Modest/Modest site/css/helpers/_variables.scss",
+		"/E/1HTML/1Site/Modest/Modest site/css/helpers/_mixins.scss",
+		"/E/1HTML/1Site/Modest/Modest site/css/helpers/_functions.scss",
+		"/E/1HTML/1Site/Modest/Modest site/css/components/_navigation.scss",
+		"/E/1HTML/Curse JS/66SemanticheskoeMenu.html",
+		"/E/1HTML/Curse JS/67DobavteOptsiuKSelectu.html",
+		"/E/1HTML/Curse JS/60Chasiki",
+		"/E/1HTML/Curse JS/61SliderKomponent.html",
+		"/E/1HTML/Curse JS/62Komponent Spisok s vydeleniem.html",
+		"/E/1HTML/Curse JS/65DobavitDvoynoyGolosVGolosovalku.html",
+		"/E/1HTML/Curse JS/64BobavteOptsiuKSelectu.html",
+		"/E/1HTML/Curse JS/index32.html",
+		"/E/1HTML/Curse JS/index33.html",
+		"/E/1HTML/Curse JS/index34.html",
+		"/E/1HTML/Curse JS/index35.html",
+		"/E/1HTML/Curse JS/index36.html",
+		"/E/1HTML/Curse JS/index37.html",
+		"/E/1HTML/Curse JS/56RazmestitZametkuRyadom s elementom.html",
+		"/E/1HTML/Curse JS/54PomestiteMyachVTsentrPolya.html",
+		"/E/1HTML/Curse JS/55NayditeCoordinatyTochkiVDocumente.html",
+		"/E/1HTML/Curse JS/59RazmestitZametkuVnutriElementa.html",
+		"/E/1HTML/Curse JS/58RazmestitZametkuRyadom s elementomAbsolute.html",
+		"/E/1HTML/Curse JS/57OblastVidimostiDlyaDocumenta.html",
+		"/E/1HTML/Curse JS/52Krasivyy alt.html",
+		"/E/1HTML/Curse JS/53ScriptySCallback.html",
+		"/E/1HTML/Curse JS/53js/c.js",
+		"/E/1HTML/Curse JS/53(3)",
+		"/E/1HTML/Curse JS/53(2)",
+		"/E/1HTML/Curse JS/53(1)",
+		"/E/1HTML/Curse JS/51PoleTolkoDlyaZifr.html",
+		"/E/1HTML/Curse JS/Krasivyy alt.html",
+		"/E/1HTML/Curse JS/50avatar naverhu pri procrutke.html",
+		"/E/1HTML/Curse JS/49Mashtabirovanie kolesikom myshi.html",
+		"/E/1HTML/Curse JS/47Slider.html",
+		"/E/1HTML/Curse JS/47Podskazka pri zamedlenii nad elementom.html",
+		"/E/1HTML/Curse JS/46 Povedenie vlozhennaya podskazka.html",
+		"/C/repo/js_20180619/node_modules/mute-stream/coverage/lcov-report/prettify.css",
+		"/E/1HTML/Curse JS/42Поведение подсказка.html",
+		"/E/1HTML/Curse JS/45Spisok s vydeleniem.html",
+		"/C/repo/js_20180619/index.html",
+		"/C/repo/js_20180619/src/components/index.js",
+		"/C/repo/js_20180619/src/components/field/field.scss",
+		"/C/repo/js_20180619/src/components/users/users.pug",
+		"/C/repo/js_20180619/src/components/field/field.js",
+		"/C/repo/js_20180619/package.json",
+		"/C/repo/js_20180619/dist/bundle.js",
+		"/C/repo/js_20180619/src/app.pug",
+		"/E/1HTML/Curse JS/44Галерея изображений.html",
+		"/C/repo/js_20180619/src/views/chat/chat.pug",
+		"/C/repo/js_20180619/src/views/view.js",
+		"/C/repo/js_20180619/src/app.js",
+		"/C/repo/js_20180619/.gitignore",
+		"/C/repo/js_20180619/src/components/field/field.pug",
+		"/C/repo/js_20180619/src/components/button/button.js",
+		"/C/repo/js_20180619/src/components/button/button.scss",
+		"/C/repo/js_20180619/src/components/button/button.pug",
+		"/C/repo/js_20180619/src/components/messages/message.pug",
+		"/C/repo/js_20180619/src/components/messages/messages.js",
+		"/C/repo/js_20180619/src/components/messages/messages.pug",
+		"/C/repo/js_20180619/src/components/messages/messages.scss",
+		"/C/repo/js_20180619/src/components/users/users.js",
+		"/C/repo/js_20180619/src/components/component.js",
+		"/C/repo/js_20180619/webpack.config.js",
+		"/C/repo/js_20180619/package-lock.json",
+		"/E/1HTML/Curse JS/43Поймайте переход по ссылке.html",
+		"/E/1HTML/Curse JS/42Поведение подсказка(1).html",
+		"/E/1HTML/Curse JS/41Раскрывающееся дерево.html",
+		"/E/1HTML/index.html",
+		"/C/Users/Kseniya/Desktop/Curse JS/Render.js",
+		"/C/repo/js_20180619/src/components/users/users.scss",
+		"/C/repo/js_20180619/README.md",
+		"/C/repo/js_20180619/node_modules/@webassemblyjs/ast/lib/index.js",
+		"/C/repo/js_20180619/node_modules/babel-traverse/lib/path/index.js",
+		"/E/1HTML/1Site/Karlilu/js/script.js",
+		"/C/Users/Kseniya/Desktop/Curse JS/44Галерея изображений.html",
+		"/C/Users/Kseniya/Desktop/Curse JS/42Поведение подсказка(1).html",
+		"/C/Users/Kseniya/Desktop/Curse JS/42Поведение подсказка.html",
+		"/C/Users/Kseniya/Desktop/Curse JS/40Скрытие сообщения с помощью делегирования.html",
+		"/C/Users/Kseniya/Desktop/Curse JS/index20.html",
+		"/C/Users/Kseniya/Desktop/Curse JS/index14.html",
+		"/C/Users/Kseniya/Desktop/Curse JS/index17.html",
+		"/C/Users/Kseniya/Desktop/Curse JS/index11.html",
+		"/C/repo/js-20180517_alivejke/1-module/1-task/index.js",
+		"/C/repo/js-20180517_alivejke/node_modules/bluebird/js/release/schedule.js",
+		"/E/1HTML/1Site/Karlilu/css/helpers/_mixins.scss",
+		"/E/1HTML/1Site/Karlilu/css/layout/_header.scss",
+		"/E/1HTML/1Site/Karlilu/css/layout/_orderContent.scss",
+		"/E/1HTML/1Site/Karlilu/css/components/_navigation.scss",
+		"/E/1HTML/1Site/Karlilu/css/helpers/_functions.scss",
+		"/E/1HTML/1Site/Karlilu/css/components/_forms.scss",
+		"/E/1HTML/1Site/Karlilu/css/layout/_footer.scss",
+		"/E/1HTML/1Site/Karlilu/css/layout/_avatarContent.scss",
+		"/E/1HTML/1Site/Karlilu/css/helpers/_variables.scss",
+		"/E/1HTML/1Site/Karlilu/bank-branch-info.html",
+		"/E/1HTML/1Site/Karlilu/bank-branch-info-saved.html",
+		"/E/1HTML/1Site/Karlilu/bank-branch-info-edit.html",
+		"/E/1HTML/1Site/Karlilu/currency-exchange.html",
+		"/E/1HTML/1Site/Karlilu/order-approved.html",
+		"/E/1HTML/1Site/Karlilu/order-approved-delivered.html",
+		"/E/1HTML/1Site/Karlilu/confirm-submit-order.html",
+		"/E/1HTML/1Site/Karlilu/confirm-submit.html",
+		"/E/1HTML/1Site/Karlilu/document-added-success.html",
+		"/E/1HTML/1Site/Karlilu/document-add-new.html",
+		"/E/1HTML/1Site/Karlilu/USD-GMD.html",
+		"/E/1HTML/1Site/Corp/Corp site/add-employe.html",
+		"/E/1HTML/1Site/Karlilu/USD-GMD-success.html",
+		"/E/1HTML/1Site/Karlilu/USD-GMD-input.html",
+		"/E/1HTML/1Site/Karlilu/avatar-edit-blank.html",
+		"/E/1HTML/1Site/Karlilu/orders-list.html",
+		"/E/1HTML/1Site/Karlilu/avatar-edit-personal-info.html",
+		"/E/1HTML/1Site/Karlilu/avatar-change-password.html",
+		"/E/1HTML/1Site/Karlilu/avatar-edit-password-error.html",
+		"/E/1HTML/1Site/Karlilu/avatar-edit-error.html",
+		"/E/1HTML/1Site/Karlilu/avatar-edit.html",
+		"/E/1HTML/1Site/Karlilu/avatar-edit-name.html",
+		"/E/1HTML/1Site/Karlilu/avatar-save-error.html",
+		"/E/1HTML/1Site/Karlilu/avatar-edit-name-error.html",
+		"/E/1HTML/1Site/Karlilu/select-option.html",
+		"/E/1HTML/1Site/Karlilu/all-documents-with-add-new.html",
+		"/E/1HTML/1Site/Karlilu/menu-opened.html",
+		"/E/1HTML/1Site/Karlilu/menu-closed.html",
+		"/E/1HTML/1Site/Karlilu/avatar-edit-success.html",
+		"/E/1HTML/1Site/Karlilu/avatar-not-defined.html",
+		"/E/1HTML/1Site/Karlilu/other-avatar-save-success.html",
+		"/E/1HTML/1Site/Karlilu/avatar-save-success.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 283.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 97.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Karma",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"css\\helpers\\_mixins.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

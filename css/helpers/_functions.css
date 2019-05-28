@@ -1,0 +1,61 @@
+.facebook-icon {
+  width: 60px;
+  height: 60px;
+  display: block;
+  background: url("../img/facebook.png") center center no-repeat; }
+
+.twitter-icon {
+  width: 60px;
+  height: 60px;
+  display: block;
+  background: url("../img/twitter.png") center center no-repeat; }
+
+.google-icon {
+  width: 60px;
+  height: 60px;
+  display: block;
+  background: url("../img/google.png") center center no-repeat; }
+
+.dribbble-icon {
+  width: 60px;
+  height: 60px;
+  display: block;
+  background: url("../img/dribbble.png") center center no-repeat; }
+
+.behance-icon {
+  width: 60px;
+  height: 60px;
+  display: block;
+  background: url("../img/behance.png") center center no-repeat; }
+
+.twitter1-icon {
+  width: 50px;
+  height: 50px;
+  display: block;
+  background: url("../img/twitter1.png") center center no-repeat; }
+
+.facebook1-icon {
+  width: 50px;
+  height: 50px;
+  display: block;
+  background: url("../img/facebook1.png") center center no-repeat; }
+
+.linkedin1-icon {
+  width: 50px;
+  height: 50px;
+  display: block;
+  background: url("../img/linkedin1.png") center center no-repeat; }
+
+.community-edition-item {
+  display: block;
+  background: url("../img/community-edition.png") no-repeat center center; }
+
+.complete-signup-item {
+  display: block;
+  background: url("../img/complete-signup.png") no-repeat center center; }
+
+.signup-item {
+  display: block;
+  background: url("../img/signup.png") no-repeat center center; }
+
+/*# sourceMappingURL=_functions.css.map */
